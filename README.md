@@ -2,15 +2,6 @@
 
 Welcome to the House Rental System, a Laravel-based application for managing house rentals.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The House Rental System is designed to streamline the process of managing house rentals. It provides a user-friendly interface for both landlords and tenants to handle rental agreements, payments, and property details.
